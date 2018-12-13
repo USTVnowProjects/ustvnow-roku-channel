@@ -4,6 +4,12 @@ USTVnow Roku channel
 ## Introduction
 This is an installer for the USTVnow Roku channel.
 
+## Prerequisites
+You will need to know the IP address of your Roku device.
+  - If you have a Roku TV, go to Settings > System > About. 
+  - For all other Roku devices, go to Settings > About from your Roku device
+  - Write down the number next to “IP Address”
+
 ## Running the application
 
 ```
