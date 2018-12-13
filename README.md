@@ -29,6 +29,7 @@ This application runs from a command or terminal prompt on your Windows PC or Ma
   - For a Windows PC you will need to download and run `rokuloader-windows-amd64.exe`
   - Once downloaded, you will run the application from the directory it resides:
     - Example: `C:\tmp>rokuloader-windows-amd64.exe -password 1234 -target 192.168.1.22`
+  - If successful, return to your Roku device and open the `USTVnow (dev)` channel
 
 ```
 Usage of rokuloader:
