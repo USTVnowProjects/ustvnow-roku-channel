@@ -1,5 +1,5 @@
 # ustvnow-roku-channel
-USTVnow Roku channel
+Roku channel providing placeshifting TV for US military and US citizens abroad
 
 ## Introduction
 This is an installer for the USTVnow Roku channel.
@@ -28,7 +28,8 @@ This application runs from a command or terminal prompt on your Windows PC or Ma
   - For a Mac you will need to download and run `rokuloader-darwin-amd64`
   - For a Windows PC you will need to download and run `rokuloader-windows-amd64.exe`
   - Once downloaded, you will run the application from the directory it resides:
-    - Example: `C:\tmp>rokuloader-windows-amd64.exe -password 1234 -target 192.168.1.22`
+    - Use the `IP Address` and `PIN` you have written down for the `target` and `password`
+    - Example: `C:\tmp>rokuloader-windows-amd64.exe -password 1234 -target 192.168.1.22` 
   - If successful, return to your Roku device and open the `USTVnow (dev)` channel
 
 ```
